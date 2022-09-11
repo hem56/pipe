@@ -5,7 +5,7 @@
 <font size="20" color="#00FF7F"><p>Bengaluru</font></p>
 <font size="20" color="#0000ff"><p>Near IT Block-b </font></p>
 <font size="20" color="#808000">bengauluru<p></font></p>
-<font size="20" color="#808000">pin-600118<p></font></p>
+<font size="20" color="#808000">pin-6001187<p></font></p>
 
 <body>
 </html>
